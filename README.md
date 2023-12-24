@@ -1,24 +1,11 @@
 # Configuration Extractor
 
-[![Php](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54)](https://github.com/MhdiTaheri/V2rayCollector)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/MhdiTaheri/V2rayCollector/blob/main/LICENSE)
-![PHP version](https://img.shields.io/badge/php-%3E%3D7.0-blue?style=for-the-badge)
-[![GitHub stars](https://img.shields.io/github/stars/MhdiTaheri/V2rayCollector?style=for-the-badge)](https://github.com/MhdiTaheri/V2rayCollector/stargazers)
-![GitHub last commit](https://img.shields.io/github/last-commit/MhdiTaheri/V2rayCollector?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/MhdiTaheri/V2rayCollector?style=for-the-badge)
-
-
 
 This PHP script fetches content from various Telegram channels and extracts VLESS, VMess, Shadowsocks, and Trojan configurations. It then organizes and saves them into separate text files.
 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Contributing](#contributing)
-- [Sub](#Sub-Link)
-- [Channels](#Channels-Used)
-- [License](#license)
 
 ## Introduction
 
